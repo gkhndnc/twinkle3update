@@ -1,11 +1,12 @@
 {
   "name": "dnc",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Love for NodeJS",
   "main": "src/core/main.js",
   "scripts": {
     "start": "electron .",
     "pack": "electron-builder --dir",
+    "build": "electron-packager . --platform=win32 --arch=x64 dnc",
     "dist": "electron-builder",
     "postinstall": "electron-builder install-app-deps",
     "release": "build"
