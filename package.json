@@ -18,8 +18,13 @@
   "author": "gkhndnc",
   "license": "CC0-1.0",
   "devDependencies": {
+<<<<<<< HEAD
     "electron": "^8.2.4",
     "electron-builder": "^22.9.1"
+=======
+    "electron": "^8.5.2",
+    "electron-builder": "^22.3.2"
+>>>>>>> 1d3a1cedd63fcf71adf58beca5a902d825d05222
   },
   "build": { 
     "appId": "com.applyhead.tw3update",
