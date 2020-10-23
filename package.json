@@ -12,18 +12,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sandeep1995/pingo.git"
+    "url": "git+https://github.com/gkhndnc/twinkle3update"
   },
-  "author": "Sandeep Acharya",
+  "author": "gkhndnc",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^8.2.4",
     "electron-builder": "^22.3.2"
   },
   "build": {
-    "appId": "com.applyhead.pingo",
-    "productName": "Pingo",
-    "copyright": "Copyright © year Sandeep Acharya",
+    "appId": "com.applyhead.tw3update",
+    "productName": "Twinkle3",
+    "copyright": "Copyright © year DNC Studyo",
     "mac": {
       "category": "public.app-category.developer-tools",
       "type": "distribution"
@@ -36,8 +36,8 @@
     "electron-updater": "^4.3.5"
   },
   "bugs": {
-    "url": "https://github.com/sandeep1995/pingo/issues"
+    "url": "https://github.com/gkhndnc/twinkle3update/issues"
   },
-  "homepage": "https://github.com/sandeep1995/pingo#readme",
+  "homepage": "https://github.com/gkhndnc/twinkle3update/pingo#readme",
   "keywords": []
 }
